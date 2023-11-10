@@ -1,0 +1,2 @@
+# Algorithm
+class practice
